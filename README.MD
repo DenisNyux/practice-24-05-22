@@ -15,7 +15,7 @@
 6. [Тезисы](https://github.com/DenisNyux/practice-24-05-22/blob/main/Инвариантная%20работа%206.pdf)
 
 ## Вариативные задания
-* [1.  Скринкаст](https://github.com/DenisNyux/practice-24-05-22/tree/main/Вариативная%20самостоятельная%20работа%201)
-* [2 Раздаточный материал](https://github.com/DenisNyux/practice-24-05-22/tree/main/Вариативная%20самостоятельная%20работа%202)
+1. [Скринкаст](https://github.com/DenisNyux/practice-24-05-22/tree/main/Вариативная%20самостоятельная%20работа%201)
+2. [Раздаточный материал](https://github.com/DenisNyux/practice-24-05-22/tree/main/Вариативная%20самостоятельная%20работа%202)
 
 
