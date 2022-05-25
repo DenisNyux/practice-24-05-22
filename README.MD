@@ -2,6 +2,8 @@
 
 ## Отчет и задание на практику
 [Отчет](https://github.com/DenisNyux/practice-24-05-22/blob/main/отчет%20по%20практике.pdf)
+
+
 [Задание](https://github.com/DenisNyux/practice-24-05-22/blob/main/задание%20на%20практику.pdf)
 ## Инвариативные задания
 
